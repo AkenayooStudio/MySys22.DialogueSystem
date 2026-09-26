@@ -1,0 +1,24 @@
+{
+    "name": "MySys22.DialogueEngine.Editor",
+    "rootNamespace": "MySys22.DialogueEngine.Editor",
+    "references": [
+        "MySys22.DialogueEngine.Runtime",
+        "Unity.TextMeshPro",
+        "UnityEditor.UI",
+        "UnityEngine.UI",
+        "UnityEditor.GraphView",
+        "UnityEditor.Experimental.GraphView",
+        "Unity.UIElements"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,70 @@
+.unity-scroll-view__content-container {
+    background-color: rgb(35, 35, 35);
+}
+
+.unity-button {
+    background-color: transparent;
+    border-width: 0;
+    color: rgb(200, 200, 200);
+    font-size: 12px;
+    padding: 2px 8px;
+}
+
+.unity-button:hover {
+    background-color: rgba(255, 255, 255, 0.08);
+}
+
+.unity-button:active {
+    background-color: rgba(255, 255, 255, 0.15);
+}
+
+.grid-background {
+    background-color: rgb(35, 35, 35);
+}
+
+.dialogue-node {
+    background-color: rgb(45, 55, 75);
+    border-color: rgb(80, 120, 200);
+    border-width: 2px;
+    border-radius: 6px;
+}
+
+.choice-node {
+    background-color: rgb(55, 45, 75);
+    border-color: rgb(200, 120, 80);
+    border-width: 2px;
+    border-radius: 6px;
+}
+
+.function-node {
+    background-color: rgb(45, 75, 55);
+    border-color: rgb(80, 200, 120);
+    border-width: 2px;
+    border-radius: 6px;
+}
+
+.end-node {
+    background-color: rgb(75, 45, 45);
+    border-color: rgb(200, 80, 80);
+    border-width: 2px;
+    border-radius: 6px;
+}
+
+.graph-port {
+    width: 12px;
+    height: 12px;
+    border-radius: 6px;
+    background-color: rgb(150, 150, 150);
+}
+
+.graph-port.input {
+    background-color: rgb(100, 200, 100);
+}
+
+.graph-port.output {
+    background-color: rgb(200, 100, 100);
+}
+
+.graph-port:hover {
+    background-color: rgb(255, 255, 100);
+}
