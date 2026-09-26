@@ -1,4 +1,0 @@
-<linker>
-  <assembly fullname="MySys22.DialogueEngine.Runtime" preserve="all" />
-  <assembly fullname="YamlDotNet" preserve="all" />
-</linker>
